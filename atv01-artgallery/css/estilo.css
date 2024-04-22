@@ -1,0 +1,28 @@
+html {
+background: lightblue;
+color: black;
+}
+
+body {
+background: white;
+width: 600px
+height: 600px;
+margin-top: 200x;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 100px;
+
+border: 1px solid white;
+}
+
+h1 {
+padding: 20px;
+}
+
+h2 {
+padding: 20px;
+}
+
+p {
+padding: 20px;
+}
